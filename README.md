@@ -21,18 +21,18 @@ Sou desenvolvedor focado em criação de:
 - 🎨 Interfaces modernas com Bootstrap
 - 🧠 Estruturas organizadas e código limpo
 
-A proposta é transformar ideias em soluções digitais funcionais, organizadas e escaláveis.
-
----
 </td>
 
 <td width="40%" align="center">
 
-<img src="assets/img/Zaion.PNG" width="200">
+<img src="assets/img/Zaion.PNG" width="250">
 
 </td>
 </tr>
-</table>
+</table>A proposta é transformar ideias em soluções digitais funcionais, organizadas e escaláveis.
+
+---
+
 ## 🛠 Tecnologias
 
 - HTML5
