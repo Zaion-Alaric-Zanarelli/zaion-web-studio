@@ -174,15 +174,15 @@ Troque apenas $_GET por $_POST:
 
 **Antes (GET):**
 
-$n1 = $_GET["n1"];
+`$n1 = $_GET["n1"];`
 
-$n2 = $_GET["n2"];
+`$n2 = $_GET["n2"];`
 
 Agora (POST):
 
-$n1 = $_POST["n1"];
+`$n1 = $_POST["n1"];`
 
-$n2 = $_POST["n2"];
+`$n2 = $_POST["n2"];`
 
 O resto do arquivo permanece igual.
 
@@ -236,15 +236,23 @@ O resto do arquivo permanece igual.
 
 -   PHP mostra dados na tela usando echo
 
-# 📌 Lembre-se
+## 📌 Lembre-se
 
-  -----------------------------------------------------------------------
-  Método           Aparece na URL?                     PHP usa
-  ---------------- ----------------------------------- ------------------
-  GET              Sim                                 $_GET
+| Característica | GET | POST |
+|---------------|------|------|
+| Dados aparecem na URL? | Sim | Não |
+| Segurança | Menor | Maior |
+| Indicado para | Buscas e filtros | Cadastros e formulários |
 
-  POST             Não                                 $_POST
-  -----------------------------------------------------------------------
+---
+
+# 🧠 Conclusão
+
+- HTML cria o formulário.
+- PHP recebe os dados.
+- `$_GET` e `$_POST` capturam os valores enviados.
+- `echo` exibe os resultados.
+- GET e POST fazem praticamente a mesma coisa, mas diferem na forma como enviam os dados.
 
 ✅ Com isso, você aprendeu como o PHP recebe dados de um formulário e
 exibe resultados na tela.
