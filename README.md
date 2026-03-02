@@ -24,7 +24,15 @@ Sou desenvolvedor focado em criação de:
 A proposta é transformar ideias em soluções digitais funcionais, organizadas e escaláveis.
 
 ---
+</td>
 
+<td width="40%" align="center">
+
+<img src="assets/img/Zaion.PNG" width="200">
+
+</td>
+</tr>
+</table>
 ## 🛠 Tecnologias
 
 - HTML5
@@ -38,15 +46,7 @@ A proposta é transformar ideias em soluções digitais funcionais, organizadas 
 
 ---
 
-</td>
 
-<td width="40%" align="center">
-
-<img src="assets/img/Zaion.PNG" width="200">
-
-</td>
-</tr>
-</table>
 
 ## 📂 Estrutura do Repositório
 
