@@ -257,4 +257,4 @@ O resto do arquivo permanece igual.
 ✅ Com isso, você aprendeu como o PHP recebe dados de um formulário e
 exibe resultados na tela.
 
--   
+---   
