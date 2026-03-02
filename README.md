@@ -42,7 +42,7 @@ A proposta é transformar ideias em soluções digitais funcionais, organizadas 
 
 <td width="40%" align="center">
 
-<img src="assets/img/Zaion.PNG" width="250">
+<img src="assets/img/Zaion.PNG" width="200">
 
 </td>
 </tr>
