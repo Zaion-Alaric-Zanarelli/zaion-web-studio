@@ -1,8 +1,8 @@
-\# 📘 PHP Básico --- Soma de Dois Números (GET e POST)
+# 📘 PHP Básico --- Soma de Dois Números (GET e POST)
 
-\## 🎯 Objetivo
+## 🎯 Objetivo
 
-Explicar comandos básicos do \*\*PHP\*\* e como ele \*\*recebe\*\* e
+Explicar comandos básicos do **PHP** e como ele **recebe** e
 \*\*dá saída\*\* (mostra na tela) de informações.
 
 Você vai criar dois arquivos:
