@@ -47,34 +47,33 @@ Você vai criar dois arquivos:
 
 ### 🧠 Explicação linha a linha --- index.php
 
--   <!DOCTYPE html> → define que o documento é **HTML5**.
+-   ```<!DOCTYPE html>``` → define que o documento é **HTML5**.
 
--   <html lang="pt-br"> → define o idioma da página.
+-   ```<html lang="pt-br">``` → define o idioma da página.
 
--   <head> → parte de configurações (não aparece na página).
+-   ```<head>``` → parte de configurações (não aparece na página).
 
--   <meta charset="UTF-8"> → permite acentuação correta.
+-   ```<meta charset="UTF-8">``` → permite acentuação correta.
 
--   <title>...</title> → título que aparece na aba do navegador.
+-   ```<title>...</title>``` → título que aparece na aba do navegador.
 
--   <body> → conteúdo visível na página.
+-   ```<body>``` → conteúdo visível na página.
 
--   <h1>...</h1> → título principal exibido ao usuário.
+-   ```<h1>...</h1>``` → título principal exibido ao usuário.
 
 **Formulário:**
 
--   <form action="calcula.php" method="get">
+-   ```<form action="calcula.php" method="get">```
 
-    -   action="calcula.php" → envia os dados para o arquivo
-        > calcula.php.
+    -   action="calcula.php" → envia os dados para o arquivo calcula.php.
 
     -   method="get" → envia os dados pela **URL**.
 
 **Campos:**
 
--   <label>...</label> → texto explicando o campo.
+-   ```<label>...</label>``` → texto explicando o campo.
 
--   <input type="number" ...> → campo para digitar número.
+-   ```<input type="number" ...>``` → campo para digitar número.
 
 -   name="n1" e name="n2" → nomes que o PHP usa para pegar os
     > valores.
@@ -83,9 +82,9 @@ Você vai criar dois arquivos:
 
 -   required → obriga preencher antes de enviar.
 
--   <br><br> → quebra linha e dá espaço.
+-   ```<br><br>``` → quebra linha e dá espaço.
 
--   <input type="submit" ...> → botão que envia o formulário.
+-   ```<input type="submit" ...>``` → botão que envia o formulário.
 
 ## 📄 2) Arquivo calcula.php (GET)
 ```
@@ -129,7 +128,7 @@ $soma = $n1 + $n2;
 ```
 ### 🧠 Explicação linha a linha --- calcula.php
 
--   <?php → início do código PHP.
+-  ``` <?php``` → início do código PHP.
 
 -   $n1 = $_GET["n1"];
 
@@ -146,13 +145,13 @@ $soma = $n1 + $n2;
 
 **Saída na tela:**
 
--   <?php echo $n1; ?> → mostra o valor de $n1.
+-   ```<?php echo $n1; ?>``` → mostra o valor de $n1.
 
 -   echo → comando do PHP para **imprimir na tela**.
 
--   <?php echo $soma; ?> → mostra a soma calculada.
+-   ```<?php echo $soma; ?>``` → mostra a soma calculada.
 
--   <a href="index.php">Voltar</a> → link para voltar ao
+-   ```<a href="index.php">Voltar</a>``` → link para voltar ao
     > formulário.
 
 # ✅ Parte 2 --- Método POST (explicar apenas o que mudou)
