@@ -41,7 +41,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>DDW</td>
     <td>30/03/2026</td>
     <td>GitHub do grupo</td>
-    <td><a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/tree/main/app-inventor/atividades/m3-relatorio-app-autoral.md">m3-relatorio-app-autoral.md</a></td>
+    <td><a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/app-inventor/atividades/m3-relatorio-app-autoral.md">m3-relatorio-app-autoral.md</a></td>
     <td>No prazo</td>
   </tr>
 
