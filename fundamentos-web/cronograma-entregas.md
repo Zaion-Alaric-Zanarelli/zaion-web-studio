@@ -39,11 +39,19 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
   <tr>
     <td>1C3</td>
     <td>PW1</td>
-    <td>12/03/2026</td>
+    <td>30/03/2026</td>
     <td>GitHub do grupo</td>
     <td>C01-HTML</td>
     <td>No prazo</td>        
   </tr>
+  <tr>
+    <td>1C3</td>
+    <td>PW1</td>
+    <td>30/03/2026</td>
+    <td>GitHub do grupo</td>
+    <td>1BIM-M1-introducao-web.md</td>
+    <td>No prazo</td>        
+  </tr>  
 
 </table>
 
