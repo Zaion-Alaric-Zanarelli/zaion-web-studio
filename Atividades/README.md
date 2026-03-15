@@ -15,10 +15,6 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
-
-https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/
-
-
 ## 📋 Cronograma
 
 <table border="1">
@@ -79,7 +75,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/C01-HTML.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/c01-html.md">
 C01-HTML
 		</a>
 	</td>
@@ -107,7 +103,7 @@ C01-HTML
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/C01-HTML.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/c01-html.md">
 C01-HTML
 		</a>
 	</td>
