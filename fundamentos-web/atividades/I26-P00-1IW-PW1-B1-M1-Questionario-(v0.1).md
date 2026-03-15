@@ -1,4 +1,4 @@
-# 1BIM-M1 — Introdução à Web e seus padrões
+# Introdução à Web e seus padrões
 
 ## 1. Introdução
 

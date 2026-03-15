@@ -22,16 +22,45 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <th>Classe</th>
     <th>Disciplina</th>
     <th>Data</th>
-    <th>Onde?</th>
+    <th>BIM/Avaliação</th>
     <th>Atividade</th>
     <th>Status</th>
   </tr>
+
+e01-php.md
+
+  <tr>
+    <td>2C</td>
+    <td>PW2</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+    	<a href="">
+		e01-php.md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
+  <tr>
+    <td>2C</td>
+    <td>PW2</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+    	<a href="">
+		I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
 
   <tr>
     <td>1D</td>
     <td>IW1</td>
     <td>10/03/2026</td>
-    <td>GitHub do grupo</td>
+    <td>1BIM - M1</td>
     <td>C01-HTML</td>
     <td>No prazo</td>
   </tr>
@@ -40,7 +69,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>1C3</td>
     <td>PW1</td>
     <td>30/03/2026</td>
-    <td>GitHub do grupo</td>
+    <td>1BIM - M1</td>
     <td>C01-HTML</td>
     <td>No prazo</td>        
   </tr>
@@ -48,10 +77,11 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>1C3</td>
     <td>PW1</td>
     <td>30/03/2026</td>
-    <td>GitHub do grupo</td>
-    <td>1BIM-M1-introducao-web.md</td>
+    <td>1BIM - M1</td>
+    <td></td>
     <td>No prazo</td>        
   </tr>  
+
 
 </table>
 
