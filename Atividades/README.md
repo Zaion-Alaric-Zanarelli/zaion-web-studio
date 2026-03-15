@@ -15,6 +15,10 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
+
+https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/
+
+
 ## 📋 Cronograma
 
 <table border="1">
@@ -35,7 +39,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/e01-php.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/e01-php.md">
 		e01-php.md
 		</a>
 	</td>
@@ -48,7 +52,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
 		I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md
 		</a>
 	</td>
@@ -63,7 +67,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
     <td>No prazo</td>
@@ -75,7 +79,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/C01-HTML.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/C01-HTML.md">
 C01-HTML
 		</a>
 	</td>
@@ -89,7 +93,7 @@ C01-HTML
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
     <td>No prazo</td>
@@ -103,7 +107,7 @@ C01-HTML
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/fundamentos-web/atividades/C01-HTML.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/C01-HTML.md">
 C01-HTML
 		</a>
 	</td>
@@ -155,7 +159,5 @@ O fomato é Markdown, padrão para visualização no Github. Mas pode ser conver
 
 O aluno deve consultar o Crononograma de entregas, ele informa qual atividade foi solicitada.
 
-## Cronongrama de Atividades: 
 
 
-D
