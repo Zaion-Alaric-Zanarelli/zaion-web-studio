@@ -79,7 +79,6 @@ e01-php.md
 C01-HTML
 		</a>
 	</td>
-    <td>C01-HTML</td>
     <td>No prazo</td>        
   </tr>
 
@@ -108,7 +107,6 @@ C01-HTML
 C01-HTML
 		</a>
 	</td>
-    <td>C01-HTML</td>
     <td>No prazo</td>        
   </tr>
 
