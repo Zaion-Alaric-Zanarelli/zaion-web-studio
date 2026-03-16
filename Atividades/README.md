@@ -5,6 +5,11 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 É responsabilidade do aluno acompanhar este cronograma e cumprir os prazos estabelecidos.
 
 ---
+**Zaion**
+- Github: https://github.com/Zaion-Alaric-Zanarelli
+- Github: https://github.com/ronildo-ferreira
+---
+
 
 ## 📌 Orientações Importantes
 
