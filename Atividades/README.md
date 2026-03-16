@@ -35,7 +35,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/e01-php.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/e01-php.md">
 		e01-php.md
 		</a>
 	</td>
@@ -48,7 +48,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
 		I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md
 		</a>
 	</td>
@@ -63,7 +63,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
     <td>No prazo</td>
@@ -75,7 +75,7 @@ e01-php.md
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/c01-html.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/c01-html.md">
 C01-HTML
 		</a>
 	</td>
@@ -89,7 +89,7 @@ C01-HTML
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md">I26-P00-1IW-PW1-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
     <td>No prazo</td>
@@ -103,7 +103,7 @@ C01-HTML
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/tarefas/c01-html.md">
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/c01-html.md">
 C01-HTML
 		</a>
 	</td>
