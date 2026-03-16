@@ -38,7 +38,7 @@ e01-php.md
     <td>2C</td>
     <td>PW2</td>
     <td>30/03/2026</td>
-    <td>1BIM - M2</td>
+    <td>1BIM - M1</td>
     <td>
     	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/e01-php.md">
 		e01-php.md
@@ -59,8 +59,57 @@ e01-php.md
 	</td>
     <td>No prazo</td>
   </tr>
+  <tr>
+    <td>2C2</td>
+    <td>PW2</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/e01-php.md">
+		e01-php.md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
 
+  <tr>
+    <td>2C2</td>
+    <td>PW2</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
+		I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
 
+  <tr>
+    <td>2D</td>
+    <td>SWEB</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/e01-php.md">
+		e01-php.md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
+  <tr>
+    <td>2D</td>
+    <td>SWEB</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+    	<a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/Atividades/exercicios-e-projetos/I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md">
+		I26-P00-2PW2-B1-M2-Lista-exercicio-(v0.1).md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
 
   <tr>
     <td>1D</td>
