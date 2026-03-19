@@ -30,6 +30,8 @@ Os arquivos obrigatórios são:
 
 📌 O arquivo principal do site deve ser **index.html**.
 
+
+
 Todas as páginas devem conter a estrutura completa de um documento HTML:
 
 - `<!DOCTYPE html>`
@@ -131,3 +133,10 @@ Serão avaliados:
 ## ✅ Observação Final
 
 Este exercício tem como objetivo reforçar a base estrutural do HTML e desenvolver organização, pesquisa e apresentação de conteúdo.
+
+
+
+
+
+
+
