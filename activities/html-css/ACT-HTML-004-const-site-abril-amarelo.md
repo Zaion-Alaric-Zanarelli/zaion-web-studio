@@ -2,7 +2,6 @@
 
 O projeto consiste na criação de um site simples utilizando apenas **HTML 4.0 (sem CSS)**, com o objetivo de informar e conscientizar sobre a importância da proteção dos animais.
 
-- 📅 **Data de apresentação:** 07/04/2026  
 - 👥 **Modalidade:** Em dupla  
 
 ---
