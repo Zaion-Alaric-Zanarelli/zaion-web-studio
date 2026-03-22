@@ -61,7 +61,8 @@ O site deve conter as seguintes páginas (ou seções):
 - Falar sobre o projeto escolar  
 - Autores  
 - Professores  
-- Dados do curso  
+- Dados do curso
+- Referências da fontes usadas no projeto (colocar o nome do site e o link)
 
 ---
 
