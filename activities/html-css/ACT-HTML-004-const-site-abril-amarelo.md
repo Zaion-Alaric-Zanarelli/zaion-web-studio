@@ -62,7 +62,7 @@ O site deve conter as seguintes páginas (ou seções):
 - Autores  
 - Professores  
 - Dados do curso
-- Referências da fontes usadas no projeto (colocar o nome do site e o link)
+- Referências das fontes usadas no projeto (colocar o nome do site e o link)
 
 ---
 
