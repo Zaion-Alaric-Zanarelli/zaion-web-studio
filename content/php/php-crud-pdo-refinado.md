@@ -58,7 +58,7 @@ No exemplo a seguir (inserir.php), o `require "conexao.php";` faz com que o arqu
 
 ## inserir.php
 
-```
+```php
 <?php
 // 1. Conexão
 

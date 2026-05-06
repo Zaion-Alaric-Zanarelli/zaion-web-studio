@@ -19,7 +19,7 @@ Dominar o CRUD é considerado o "primeiro grande degrau" para qualquer estudante
 
 ## inserir.php
 
-```
+```php
 <?php
 // 1. Conexão
     $dsn = "mysql:host=localhost;dbname=agenda_db;charset=utf8";
@@ -63,7 +63,7 @@ if ($pdo->lastInsertId()) {
 
 ## visualizar.php
 
-```
+```php
 <?php
 // 1. Conexão
     $dsn = "mysql:host=localhost;dbname=agenda_db;charset=utf8";
@@ -110,7 +110,7 @@ if ($contatos) {
 
 ## procurar-por-id.php
 
-```
+```php
 <?php
 // 1. Conexão
     $dsn = "mysql:host=localhost;dbname=agenda_db;charset=utf8";
@@ -154,7 +154,7 @@ if ($contato) {
 
 ## alterar.php
 
-```
+```php
 <?php
 // 1. Conexão
     $dsn = "mysql:host=localhost;dbname=agenda_db;charset=utf8";
@@ -206,7 +206,7 @@ if ($sucesso) {
 
 ## excluir.php
 
-```
+```php
 <?php
 // 1. Conexão
     $dsn = "mysql:host=localhost;dbname=agenda_db;charset=utf8";
