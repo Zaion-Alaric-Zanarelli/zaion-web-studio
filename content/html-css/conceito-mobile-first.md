@@ -118,6 +118,6 @@ footer {
 ### Por que isso funciona?
 1.  **Flexbox no Body:** Usamos `display: flex` com `flex-direction: column` e `min-height: 100vh` para garantir que o rodapé fique sempre no final da página, mesmo se houver pouco conteúdo.
 2.  **Cascata Progressiva:** O navegador lê as regras de cima para baixo. O celular recebe o estilo básico. Se a tela for grande (Tablet ou PC), o CSS dentro da `@media` "sobrescreve" apenas o que for necessário.
-3.  **Flexibilidade:** Usamos unidades relativas (como `padding: 20px`) e evitamos larguras fixas (como `width: 800px`), permitindo que os elementos "respirem" conforme a tela muda.
+3.  **Flexibilidade:** Usamos unidades relativas (como `padding: 20px`) e evitamos larguras fixas (como `width: 800px`), permitindo que os elementos se adaptem conforme a tela muda.
 
 ---
